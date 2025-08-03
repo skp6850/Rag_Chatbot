@@ -130,49 +130,9 @@ rag-chatbot/
 
 | Component | Choice | Justification |
 |--------|--------|-------------|
-| **LLM** | `llama3` | Lightweight, instruction-tuned, good for Q&A |
+| **LLM** | `llama3.2` | Lightweight, instruction-tuned, good for Q&A |
 | **Embedding** | `nomic-embed-text` | Fast, accurate, trained on legal text |
 | **Vector DB** | `Chroma` | Persistent, lightweight, easy to use |
 | **Retriever** | `MultiQueryRetriever` | Improves recall with query expansion |
 
 ---
-
-## 📄 PDF Report
-
-See `report.pdf` for full technical write-up including:
-- Document structure & chunking logic
-- Prompt design
-- Example queries
-- Limitations & observations
-
----
-
-## 📝 Notes
-
-- All code is **original, modular, and plagiarism-free**
-- Streaming works via `chain.stream()`
-- No cloud dependencies — runs 100% locally
-- Designed for clarity, maintainability, and scalability
-
----
-
-Made with ❤️ for **Amlgo Labs**.
-```
-
----
-
-## ✅ How to Use This README
-
-1. Save this as `README.md` in your project root
-2. Replace `https://github.com/yourusername/ebay-rag-chatbot` with your actual repo URL
-3. Replace `YOUTUBE_ID` with your actual demo video ID
-4. Commit and push to GitHub
-
----
-
-Let me know when you're ready, and I’ll help you:
-- Finalize the `report.pdf`
-- Generate a **GIF version** of the demo
-- Upload to GitHub
-
-You're **100% ready to submit a winning assignment**! 🚀

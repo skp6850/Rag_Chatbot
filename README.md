@@ -106,8 +106,6 @@ rag-chatbot/
 ├── app.py                    # Streamlit UI
 ├── requirements.txt
 ├── README.md
-├── demo.mp4
-└── report.pdf
 ```
 
 > Run Fast_rag_notebook.ipynb file. This file is w/o the UI.

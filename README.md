@@ -94,7 +94,7 @@ rag-chatbot/
 │   └── chunks.json
 ├── vectordb/                 # Chroma DB
 ├── notebooks/
-│   └── data_preprocessing.ipynb
+│   └── FAST_rag_notebook.ipynb
 ├── src/
 │   ├── document_loader.py
 │   ├── text_splitter.py
@@ -110,6 +110,7 @@ rag-chatbot/
 └── report.pdf
 ```
 
+> Run Fast_rag_notebook.ipynb file. This file is w/o the UI.
 ---
 
 ## 🎥 Demo

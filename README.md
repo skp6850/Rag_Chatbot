@@ -8,7 +8,7 @@ Built with:
 - `nomic-embed-text` for embeddings
 - `Chroma` as vector DB
 - `Streamlit` UI with **real-time streaming responses**
-- Modular Python design
+
 
 ---
 

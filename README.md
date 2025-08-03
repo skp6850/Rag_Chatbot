@@ -1,7 +1,7 @@
 ```markdown
 # 🤖 eBay RAG Chatbot – Amlgo Labs Assignment
 
-A **modular, streaming RAG chatbot** that answers questions about eBay's User Agreement using **Ollama + LangChain + Chroma**.
+A ** RAG chatbot** that answers questions about eBay's User Agreement using **Ollama + LangChain + Chroma**.
 
 Built with:
 - `llama3` (7B) or other Ollama models

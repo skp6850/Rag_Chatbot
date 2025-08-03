@@ -77,8 +77,8 @@ streamlit run app.py
 
 ## 🧪 Sample Queries
 
-| Query | Expected Answer Snippet |
-|------|-------------------------|
+| Query |
+|------|
 | Summary of the policies? | 
 | Are vehicles covered under eBay Money Back Guarantee? |
 | tell me about the returning policies?|

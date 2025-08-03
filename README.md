@@ -61,7 +61,7 @@ python preprocess.py
 
 This will:
 - Load and clean the PDF
-- Split into 100–300 word chunks
+- Split into 100 word chunks
 - Generate embeddings
 - Save to `vectordb/`
 

@@ -1,5 +1,5 @@
 ```markdown
-# 🤖 eBay RAG Chatbot – Amlgo Labs Assignment
+# 🤖 eBay RAG Chatbot
 
 A ** RAG chatbot** that answers questions about eBay's User Agreement using **Ollama + LangChain + Chroma**.
 
